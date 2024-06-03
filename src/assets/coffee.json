@@ -1,0 +1,142 @@
+{
+    "coffee": [
+        {
+            "img": "https://images.unsplash.com/photo-1524350876685-274059332603?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "title": "淺焙 哥倫比亞咖啡豆 水洗",
+            "detaiImages": [
+                "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "price": 1200,
+            "type": [
+                "阿拉比卡 ．小果咖啡",
+                "水洗處裡",
+                "淺烘焙"
+            ],
+            "introduction": "商品特色衣索比亞 . 瓜地馬拉 . 哥倫比亞中焙果乾 . 麥芽糖 . 可可200g (包)優惠活動僅能擇一進行，且無法與折價券合併使用，活動期間團購優惠暫停受理銷售重點冠軍杯測師特選不同產地的混合咖啡豆，咖啡香醇濃厚，再加上牛奶則會有自然柔和甜味，甜而不膩更富有豐富層次，創造出獨一無二的拿鐵！"
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1524350876685-274059332603?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "title": "中焙 哥倫比亞咖啡豆 水洗",
+            "price": 1200,
+            "type": [
+                "阿拉比卡 ．小果咖啡",
+                "水洗處裡",
+                "中烘培"
+            ],
+            "introduction": "阿拉比卡 ．小果咖啡"
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1524350876685-274059332603?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "title": "淺焙 哥倫比亞咖啡豆 日曬",
+            "price": 1200,
+            "type": [
+                "阿拉比卡 ．小果咖啡",
+                "日曬處理",
+                "淺烘焙"
+            ],
+            "introduction": "阿拉比卡 ．小果咖啡"
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1524350876685-274059332603?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "title": "中焙 哥倫比亞咖啡豆 日曬",
+            "price": 1200,
+            "type": [
+                "阿拉比卡 ．小果咖啡",
+                "日曬處理",
+                "中烘培"
+            ],
+            "introduction": "阿拉比卡 ．小果咖啡"
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1607681034540-2c46cc71896d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "title": "淺焙 衣索比亞耶加雪菲咖啡豆 水洗",
+            "price": 250,
+            "type": [
+                "阿拉比卡 ．小果咖啡",
+                "水洗處裡",
+                "淺烘焙"
+            ],
+            "introduction": ""
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1607681034540-2c46cc71896d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "title": "中焙 衣索比亞耶加雪菲咖啡豆 水洗",
+            "price": 250,
+            "type": [
+                "阿拉比卡 ．小果咖啡",
+                "水洗處裡",
+                "中烘培"
+            ],
+            "introduction": ""
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1607681034540-2c46cc71896d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "title": "淺焙 衣索比亞耶加雪菲咖啡豆 日曬",
+            "price": 250,
+            "type": [
+                "阿拉比卡 ．小果咖啡",
+                "日曬處理",
+                "淺烘焙"
+            ],
+            "introduction": ""
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1607681034540-2c46cc71896d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "title": "中焙 衣索比亞耶加雪菲咖啡豆 日曬",
+            "price": 250,
+            "type": [
+                "阿拉比卡 ．小果咖啡",
+                "日曬處理",
+                "中烘培"
+            ],
+            "introduction": ""
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1625021659159-f63f546d74a7?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "title": "印度羅布斯塔咖啡豆",
+            "price": 1200,
+            "type": [
+                "羅布斯塔 ．中果咖啡",
+                "日曬處理",
+                "中烘培"
+            ],
+            "introduction": ""
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1573628684835-ca186702bbde?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "title": "越南羅布斯塔咖啡豆",
+            "price": 250,
+            "type": [
+                "羅布斯塔 ．中果咖啡",
+                "日曬處理",
+                "中烘培"
+            ],
+            "introduction": ""
+        }
+    ],
+    "type": [
+        "全部",
+        "阿拉比卡 ．小果咖啡",
+        "羅布斯塔 ．中果咖啡",
+        "水洗處裡",
+        "日曬處理",
+        "淺烘焙",
+        "中烘培"
+    ],
+    "typeAll": [
+        "全部",
+        "阿拉比卡-小果咖啡",
+        "羅布斯塔-中果咖啡",
+        "精品咖啡豆",
+        "特色咖啡豆",
+        "濾掛咖啡",
+        "水洗處裡",
+        "日曬處理",
+        "密處理",
+        "淺烘焙",
+        "中烘培",
+        "深烘培"
+    ]
+}
